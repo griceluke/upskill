@@ -5,3 +5,11 @@ nav {
 nav a {
   font-weight: bold;
 }
+
+nav .this-class-doesnt-exist {
+  this: should;
+  be: removed;
+  by: the;
+  purge: package;
+  background-size: contain;
+}
