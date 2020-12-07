@@ -1,0 +1,7 @@
+nav {
+  background: var(--primary-dark);
+}
+
+nav a {
+  font-weight: bold;
+}
